@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumonsiu01" alt="sumonsiu01" /></a> </p>
 
-- 🔭 I’m currently working on **Disease Predictoin**
+- 🔭 I’m currently working on **Disease Prediction**
 
 - 🌱 I’m currently learning **Django Rest Framework,AWS**
 
