@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumonsiu01&label=Profile%20views&color=0e75b6&style=flat" alt="sumonsiu01" /> </p>
 </p>
 
-- 🔭 I’m currently working on **Disease Prediction**
+- 🔭 I’m currently working on **Docker & CI/CD Pipeline**
 
 - 🌱 I’m currently learning **Django Rest Framework,AWS**
 
