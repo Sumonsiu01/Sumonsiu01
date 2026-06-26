@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumon Ahmed</h1>
-<h3 align="center">A passionate Full Stack Django developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Django developer from Bangladesh.Perticipated ICPC Dhaka Reginal 2020 and 2024.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumonsiu01&label=Profile%20views&color=0e75b6&style=flat" alt="sumonsiu01" /> </p>
